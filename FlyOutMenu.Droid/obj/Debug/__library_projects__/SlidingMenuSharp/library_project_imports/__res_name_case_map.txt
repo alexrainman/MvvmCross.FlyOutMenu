@@ -1,0 +1,3 @@
+values/ids.xml;values/ids.xml
+values/attrs.xml;values/attrs.xml
+layout/slidingmenumain.xml;layout/slidingmenumain.xml

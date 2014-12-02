@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlyOutMenu.Touch/Views/HomeView.cs">
+    <Files>
+      <File FileName="FlyOutMenu.Touch/Views/RootView.cs" Line="1" Column="1" />
+      <File FileName="FlyOutMenu.Core/App.cs" Line="1" Column="1" />
+      <File FileName="FlyOutMenu.Touch/Views/MenuView.cs" Line="1" Column="1" />
+      <File FileName="FlyOutMenu.Touch/Views/HomeView.cs" Line="29" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True" selected="True">
+          <Node name="FlyOutMenu.Touch" expanded="True">
+            <Node name="Views" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../Downloads/Development/Xamarin/MvvmCross/Testing/AtTheTable/AtTheTable.Touch/Views/HomeView.cs" line="44" offsetX="394" offsetY="645" expression="viewControllers[0].HidesBarsOnSwipe" liveUpdate="False" />
+    <Watch file="../../Downloads/Development/Xamarin/MvvmCross/Testing/AtTheTable/AtTheTable.Touch/Views/HomeView.cs" line="44" offsetX="394" offsetY="645" expression="viewControllers" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.FlyOutMenu.Droid MonoForAntroid.PreferredDevice="Nexus 4" />
+</Properties>

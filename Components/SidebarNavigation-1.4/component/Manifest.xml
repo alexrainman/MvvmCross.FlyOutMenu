@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="SidebarNavigation">
+  <name>Sidebar Navigation</name>
+  <publisher>Jack Dehlin</publisher>
+  <publisher-url>https://github.com/jdehlin/Xamarin-Sidebar</publisher-url>
+  <version>1.4</version>
+  <summary>An easy to use and versatile slideout menu.</summary>
+  <samples>
+    <sample id="Xamarin-Sidebar">
+      <name>A simple and navigation sample.</name>
+      <summary>In the simple sample the menu buttons replace the content view. In the navigation controller the menu buttons push views onto the navigation controller.</summary>
+    </sample>
+  </samples>
+</component>
