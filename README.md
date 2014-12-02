@@ -23,6 +23,10 @@ RootViewModel (app starting point and menu/content container), HomeViewModel and
 
 iOS version follows Sidebar Navigation implementation: RootView MvxController initializes the Sidebar navigation with HomeView and MenuView MvxViewControllers. Both HomeView and MenuView has their own ViewModels so you can use bindings, and, as they are NavigationControllers, you can push View controllers from them.
 
+![ScreenShot](https://raw.githubusercontent.com/alexrainman/MvvmCross.FlyOutMenu/master/Screenshots/FlyOutMenu.Touch_1.png)
+
+![ScreenShot](https://raw.githubusercontent.com/alexrainman/MvvmCross.FlyOutMenu/master/Screenshots/FlyOutMenu.Touch_2.png)
+
 Android version follows the same implementantion with Support Library V7 and MvxFragments: RootView activity initializes the SlidingMenu with HomeView and MenuView MvxFragments. Both HomeView and MenuView fragments has their own ViewModels, so, you can use bindings. Addons folder contains MvxActionBarActivity and MvxSlidingActionBarActivity implementations. You have access to SupportActionBar, inflate menus and follow Android design guide lines plus a fully customizable SlidingMenu.
 
 Feel free to download and use!
