@@ -29,6 +29,10 @@ iOS version follows Sidebar Navigation implementation: RootView MvxController in
 
 Android version follows the same implementantion with Support Library V7 and MvxFragments: RootView activity initializes the SlidingMenu with HomeView and MenuView MvxFragments. Both HomeView and MenuView fragments has their own ViewModels, so, you can use bindings. Addons folder contains MvxActionBarActivity and MvxSlidingActionBarActivity implementations. You have access to SupportActionBar, inflate menus and follow Android design guide lines plus a fully customizable SlidingMenu.
 
+![ScreenShot](https://raw.githubusercontent.com/alexrainman/MvvmCross.FlyOutMenu/master/Screenshots/FlyOutMenu.Droid_1.png)
+
+![ScreenShot](https://raw.githubusercontent.com/alexrainman/MvvmCross.FlyOutMenu/master/Screenshots/FlyOutMenu.Droid_2.png)
+
 Feel free to download and use!
 
 I don't target Windows Phone. Can you add WP version?
