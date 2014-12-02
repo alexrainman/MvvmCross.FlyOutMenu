@@ -3,10 +3,11 @@ using Cirrious.MvvmCross.Touch.Views;
 
 namespace FlyOutMenu.Touch
 {
-	public partial class MenuView : MvxViewController
+	public sealed partial class MenuView : MvxViewController
 	{
 		public MenuView () : base ("MenuView", null)
 		{
+			ViewDidLoad ();
 		}
 
 		public override void DidReceiveMemoryWarning ()

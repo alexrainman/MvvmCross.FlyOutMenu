@@ -4,10 +4,11 @@ using MonoTouch.UIKit;
 
 namespace FlyOutMenu.Touch
 {
-	public partial class HomeView : MvxViewController
+	public sealed partial class HomeView : MvxViewController
 	{
 		public HomeView () : base ("HomeView", null)
 		{
+			ViewDidLoad ();
 		}
 
 		public override void DidReceiveMemoryWarning ()
