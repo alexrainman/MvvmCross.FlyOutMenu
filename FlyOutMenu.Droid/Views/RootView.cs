@@ -9,7 +9,7 @@ using Android.Views;
 
 namespace FlyOutMenu.Droid
 {
-	[Activity (Label = "FlyOutMenu.Droid", MainLauncher = false, Icon="@drawable/ic_drawer", Theme = "@style/Theme.AppCompat.Light")]		
+	[Activity (Label = "FlyOutMenu.Droid", MainLauncher = false, Theme = "@style/Theme.AppCompat.Light")]		
 	public class RootView : MvxSlidingActionBarActivity
 	{
 		public RootViewModel RootViewModel
@@ -34,7 +34,8 @@ namespace FlyOutMenu.Droid
 
 			CreateViewFor (MenuView.NewInstance(), RootViewModel.Menu, Resource.Id.menu_frame);
 
-			SupportActionBar.SetDisplayHomeAsUpEnabled(false);
+			SupportActionBar.SetDisplayHomeAsUpEnabled(true);
+			SupportActionBar.SetHomeAsUpIndicator (Resource.Drawable.ic_menu_grey600_36dp);
 			SupportActionBar.SetHomeButtonEnabled(true);
 
 		}

@@ -1,7 +1,7 @@
 package cirrious.mvvmcross.droid.fullfragging.fragments;
 
 
-public abstract class MvxFragment
+public class MvxFragment
 	extends cirrious.mvvmcross.droid.fullfragging.fragments.eventsource.MvxEventSourceFragment
 	implements
 		mono.android.IGCUserPeer

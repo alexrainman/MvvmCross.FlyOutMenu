@@ -2,7 +2,7 @@ package cirrious.mvvmcross.droid.fullfragging;
 
 
 public abstract class MvxTabsFragmentActivity
-	extends cirrious.mvvmcross.droid.views.MvxActivity
+	extends cirrious.mvvmcross.droid.fullfragging.views.MvxActivity
 	implements
 		mono.android.IGCUserPeer,
 		android.widget.TabHost.OnTabChangeListener

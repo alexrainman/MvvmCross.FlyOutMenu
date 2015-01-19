@@ -68,7 +68,4 @@ Global
 		{C084D196-FBCB-44A8-AD42-F8E2E1B823BE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
 		{C084D196-FBCB-44A8-AD42-F8E2E1B823BE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = FlyOutMenu.Touch\FlyOutMenu.Touch.csproj
-	EndGlobalSection
 EndGlobal

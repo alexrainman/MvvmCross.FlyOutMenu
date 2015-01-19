@@ -1,6 +1,6 @@
 ﻿
 using Cirrious.MvvmCross.Touch.Views;
-using MonoTouch.UIKit;
+using UIKit;
 
 namespace FlyOutMenu.Touch
 {
