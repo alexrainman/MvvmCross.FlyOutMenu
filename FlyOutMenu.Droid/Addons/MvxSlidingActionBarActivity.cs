@@ -37,6 +37,23 @@ namespace FlyOutMenu.Droid
 			_helper.OnSaveInstanceState(outState);
 		}
 
+		/*public override void SetContentView(int layoutResId)
+		{
+			SetContentView(LayoutInflater.Inflate(layoutResId, null));
+		}
+
+		public override void SetContentView(View view)
+		{
+			SetContentView(view, new ViewGroup.LayoutParams(ViewGroup.LayoutParams.MatchParent,
+				ViewGroup.LayoutParams.MatchParent));
+		}
+
+		public override void SetContentView(View view, ViewGroup.LayoutParams @params)
+		{
+			base.SetContentView(view, @params);
+			_helper.RegisterAboveContentView(view, @params);
+		}*/
+
 		public override void SetContentView(int layoutResId)
 		{
 			SetContentView(LayoutInflater.Inflate(layoutResId, null));

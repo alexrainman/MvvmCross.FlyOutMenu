@@ -8,7 +8,7 @@ using Cirrious.CrossCore.Core;
 
 namespace FlyOutMenu.Droid
 {
-	public class MvxActionBarEventSourceActivity : ActionBarActivity
+	public class MvxActionBarEventSourceActivity : AppCompatActivity
 	, IMvxEventSourceActivity
 	{
 		protected override void OnCreate(Bundle bundle)

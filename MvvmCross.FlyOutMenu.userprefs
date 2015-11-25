@@ -1,11 +1,11 @@
-﻿<Properties StartupItem="FlyOutMenu.Touch/FlyOutMenu.Touch.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.1" />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-    </Pads>
+﻿<Properties StartupItem="FlyOutMenu.Droid/FlyOutMenu.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.RoboVM_Nexus_5_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlyOutMenu.Droid/Addons/MvxSlidingActionBarActivity.cs">
+    <Files>
+      <File FileName="FlyOutMenu.Droid/Setup.cs" Line="1" Column="1" />
+      <File FileName="FlyOutMenu.Droid/SplashScreen.cs" Line="1" Column="1" />
+      <File FileName="FlyOutMenu.Droid/Addons/MvxSlidingActionBarActivity.cs" Line="6" Column="7" />
+    </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

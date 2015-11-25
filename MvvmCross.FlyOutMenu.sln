@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyOutMenu.Droid", "FlyOutM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyOutMenu.Touch", "FlyOutMenu.Touch\FlyOutMenu.Touch.csproj", "{C084D196-FBCB-44A8-AD42-F8E2E1B823BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlidingMenuSharp", "..\SlidingMenuSharp\SlidingMenuSharp\SlidingMenuSharp.csproj", "{555937D8-1533-4D19-A346-55C192C35A5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,22 @@ Global
 		{305FEC1B-3907-41DF-BAF2-E3D12B5E07A3}.Release|iPhone.Build.0 = Release|Any CPU
 		{305FEC1B-3907-41DF-BAF2-E3D12B5E07A3}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{305FEC1B-3907-41DF-BAF2-E3D12B5E07A3}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.AppStore|iPhone.Build.0 = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Release|iPhone.Build.0 = Release|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{555937D8-1533-4D19-A346-55C192C35A5D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{69A28F84-1DB1-4810-8FEC-965BD39D825D}.Ad-Hoc|iPhone.ActiveCfg = Debug|Any CPU
 		{69A28F84-1DB1-4810-8FEC-965BD39D825D}.Ad-Hoc|iPhone.Build.0 = Debug|Any CPU
 		{69A28F84-1DB1-4810-8FEC-965BD39D825D}.AppStore|iPhone.ActiveCfg = Debug|Any CPU
